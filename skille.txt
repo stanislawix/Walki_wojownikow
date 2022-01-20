@@ -1,0 +1,15 @@
+m;Rasengan;Mag zbiera energie w reku i rzuca kula ognia!;2;0.2;0.2;1.5;0.5;2;0.2;1.2;0.5;
+m;Chidori;Mag bombarduje przeciwnika glazami!;2;1;0.8;1.2;0.2;0.5;0.3;1;2.1
+m;Styl wiatru;Mag manipuluje powietrzem uderzajac wroga kolejnymi podmuchami!;2;0.3;0.5;1.5;0.5;0.2;0.7;2.2;0.2;
+m;Sekretna technika;Mag rzuca toksyczna mgle na pole bitwy!;1.8;0.3;0.8;1.2;0.4;0.6;0.6;1.2;1.6;
+m;Grob;Mag zamyka wroga w bance wody topiac go!;2;0.2;0.5;1.6;0.5;0.2;2;1.5;0.5;
+r;Cios z pol obrotu;Rycerz bierze zamach toporem i uderza wroga!;0.3;2;1;0.8;1.1;1.2;1.2;0.8;0.2;
+r;Szermierz;Rycerz dobywa miecz i wykonuje serie szybkich pchniec!;0.5;1;1;1;1.4;1.5;0.8;0.3;1;
+r;Gilotyna;Rycerz w wyskoku wykonuje ciecie w dol!;0.2;2;1.2;0.6;1.3;1.2;1.4;0.3;0.5;
+r;Cicha egzekucja;Rycerz zachodzi wroga od tylu i wbija sztylet w plecy!;0.8;1;0.5;0.5;1.3;1.1;0.5;0.3;2;
+r;Rosenbroth;Rycerz skupia sie i pokrywa swoj orez plomieniem!;1.2;0.8;0.2;1.5;0.9;1.1;1;0.9;0.8;
+p;Assemble;Polimorf wzywa swoich podopiecznych ktorzy sa bezlitosni!;0.5;0.4;1;1.5;1;0.8;0.3;1.5;0.7;
+p;Pulapka;Polimorf tworzy pod swoimi wrogami ruchome piaski!;1;0.2;1;1;1.2;0.9;0.5;0.6;1.8;
+p;Kyose no Jutsu;Polimorf przywoluje swojego groznego pupila!;0.8;0.8;1;1.5;0.5;0.7;0.5;1.7;1.2;
+p;Klatwa;Polimorf rzuca klatwe na wroga oslabiajac jego morale!;1;0.2;1;1;0.6;1.1;1.2;0.5;0.3;
+p;Masakra;Polimorf rzuca sie wsciekle na wroga!;0.2;1;1.5;0.8;1.2;0.8;0.6;0.5;1.1
